@@ -1,0 +1,85 @@
+[30-Mar-2025 14:36:24 Europe/Berlin] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.user_id' in 'on clause'
+[30-Mar-2025 14:46:19 Europe/Berlin] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.user_id' in 'on clause'
+[30-Mar-2025 14:46:29 Europe/Berlin] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.user_id' in 'on clause'
+[30-Mar-2025 14:47:02 Europe/Berlin] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.user_id' in 'on clause'
+[30-Mar-2025 14:47:24 Europe/Berlin] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.user_id' in 'on clause'
+[30-Mar-2025 14:47:27 Europe/Berlin] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.user_id' in 'on clause'
+[30-Mar-2025 14:47:32 Europe/Berlin] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.user_id' in 'on clause'
+[30-Mar-2025 14:47:45 Europe/Berlin] Login error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.user_id' in 'on clause'
+[30-Mar-2025 14:52:59 Europe/Berlin] Attempting login for email: maheksavaliya2@gmail.com
+[30-Mar-2025 14:52:59 Europe/Berlin] Login failed for email: maheksavaliya2@gmail.com
+[30-Mar-2025 14:53:35 Europe/Berlin] Attempting login for email: maheksavaliya2@gmail.com
+[30-Mar-2025 14:53:35 Europe/Berlin] Login failed for email: maheksavaliya2@gmail.com
+[30-Mar-2025 14:54:28 Europe/Berlin] Attempting login for email: maheksavaliya2@gmail.com
+[30-Mar-2025 14:54:28 Europe/Berlin] Login failed for email: maheksavaliya2@gmail.com
+[30-Mar-2025 14:57:52 Europe/Berlin] Attempting login for email: maheksavaliya2@gmail.com
+[30-Mar-2025 14:57:52 Europe/Berlin] User data: Array
+(
+    [id] => 1
+    [name] => Mahek Savaliya
+    [email] => maheksavaliya2@gmail.com
+    [password] => $2y$10$01BQ0TDtsF9Aj7aY.6FDFe6.lDX0ZFERITt2FQ.idajyFHzZyJdM6
+    [created_at] => 2025-03-29 17:02:46
+    [profile_image] => mentee_1.png
+)
+
+[30-Mar-2025 14:57:52 Europe/Berlin] Stored password hash: $2y$10$01BQ0TDtsF9Aj7aY.6FDFe6.lDX0ZFERITt2FQ.idajyFHzZyJdM6
+[30-Mar-2025 14:57:52 Europe/Berlin] Checking password match...
+[30-Mar-2025 14:57:52 Europe/Berlin] Login successful. Session data: Array
+(
+    [last_regeneration] => 1743339006
+    [mentee_id] => 1
+    [name] => Mahek Savaliya
+    [role] => mentee
+    [email] => maheksavaliya2@gmail.com
+)
+
+[30-Mar-2025 14:58:13 Europe/Berlin] Attempting login for email: test@test.com
+[30-Mar-2025 14:58:13 Europe/Berlin] User data: Array
+(
+    [id] => 5
+    [name] => Test Mentee
+    [email] => test@test.com
+    [password] => $2y$10$rBvJBTl1uGdKZG0NMHdxl.8wuQev3GURJrpEwalWoMFoygR/1/R4q
+    [created_at] => 2025-03-30 18:27:38
+    [profile_image] => 
+)
+
+[30-Mar-2025 14:58:13 Europe/Berlin] Stored password hash: $2y$10$rBvJBTl1uGdKZG0NMHdxl.8wuQev3GURJrpEwalWoMFoygR/1/R4q
+[30-Mar-2025 14:58:13 Europe/Berlin] Checking password match...
+[30-Mar-2025 14:58:13 Europe/Berlin] Login successful. Session data: Array
+(
+    [last_regeneration] => 1743339006
+    [mentee_id] => 5
+    [name] => Test Mentee
+    [role] => mentee
+    [email] => test@test.com
+)
+
+[30-Mar-2025 14:58:24 Europe/Berlin] Attempting login for email: test@test.com
+[30-Mar-2025 14:58:24 Europe/Berlin] User data: Array
+(
+    [id] => 5
+    [name] => Test Mentee
+    [email] => test@test.com
+    [password] => $2y$10$rBvJBTl1uGdKZG0NMHdxl.8wuQev3GURJrpEwalWoMFoygR/1/R4q
+    [created_at] => 2025-03-30 18:27:38
+    [profile_image] => 
+)
+
+[30-Mar-2025 14:58:24 Europe/Berlin] Stored password hash: $2y$10$rBvJBTl1uGdKZG0NMHdxl.8wuQev3GURJrpEwalWoMFoygR/1/R4q
+[30-Mar-2025 14:58:24 Europe/Berlin] Checking password match...
+[30-Mar-2025 14:58:24 Europe/Berlin] Login successful. Session data: Array
+(
+    [last_regeneration] => 1743339006
+    [mentee_id] => 5
+    [name] => Test Mentee
+    [role] => mentee
+    [email] => test@test.com
+)
+
+[01-Apr-2025 12:35:14 Europe/Berlin] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[01-Apr-2025 12:41:58 Europe/Berlin] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[01-Apr-2025 12:42:09 Europe/Berlin] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[01-Apr-2025 12:45:25 Europe/Berlin] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[01-Apr-2025 12:45:51 Europe/Berlin] Connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it

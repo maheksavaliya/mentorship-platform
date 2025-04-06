@@ -1,0 +1,15 @@
+[02-Apr-2025 17:44:35 Europe/Berlin] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\mms\login.php on line 3
+[02-Apr-2025 17:44:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\mms\login.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\mms\login.php on line 3
+[02-Apr-2025 17:44:36 Europe/Berlin] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\mms\login.php on line 3
+[02-Apr-2025 17:44:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\mms\login.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\mms\login.php on line 3
+[02-Apr-2025 17:44:53 Europe/Berlin] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\mms\login.php on line 3
+[02-Apr-2025 17:44:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\mms\login.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\mms\login.php on line 3
